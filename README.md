@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://ashiqulshourav/websites](https://github.com/ashiqulshourav/websites)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/ashiqulshourav/websites)
 
 - 💬 Ask me about **HTML, CSS, sass, Bootstrap, vanilla JS, jQuery, Ajax, API**
 
-- 📫 How to reach me **shouravnkt@gmail.com**
+- 📫 How to reach me **ashiqulshouravdev@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jA0FcykN3LCuxA6iO82RImkxEaRhOXyN/view?usp=share_link)
 
