@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shouravnkt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jA0FcykN3LCuxA6iO82RImkxEaRhOXyN/view?usp=share_link](https://drive.google.com/file/d/1jA0FcykN3LCuxA6iO82RImkxEaRhOXyN/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jA0FcykN3LCuxA6iO82RImkxEaRhOXyN/view?usp=share_link)
 
 <br/>
 <h3 align="left">Connect with me:</h3>
