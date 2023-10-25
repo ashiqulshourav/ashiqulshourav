@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ashiqulshouravdev@gmail.com**
 
-- 📄 Know about my experiences in this [Resume](https://drive.google.com/file/d/1jA0FcykN3LCuxA6iO82RImkxEaRhOXyN/view?usp=share_link)
+- 📄 Know about my experiences in this [Resume](https://drive.google.com/file/d/1m1DHDNB6Z1N7C5eB3NrXvxzeUVsa-BJF/view?usp=sharing)
 
 <br/>
 <h3 align="left">Connect with me:</h3>
