@@ -19,8 +19,7 @@
 
 - 📫 How to reach me **ashiqulshouravdev@gmail.com**
 
-- 📄 Know about my experiences in this [Resume](https://drive.google.com/file/d/1dnpPs9k0yOnnQa4cru810WN-YkK7T3to/view?usp=sharing)  i - [i](https://drive.google.com/file/d/1hdvb3HgMOR8TGc_cKm3QU7cV3Z3NTDGG/view?usp=sharing)
-
+- 📄 Know about my experiences in this [Resume](https://drive.google.com/file/d/1dnpPs9k0yOnnQa4cru810WN-YkK7T3to/view?usp=sharing)
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
