@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Legal Claim Assistant](https://legalclaimassistant.com/)
 - 👨‍💻 Previously worked at [brokertarieven](https://brokertarieven.nl) & [brokerdata](https://brokerdata.tech) & [compareallbrokers](https://compareallbrokers.com)
 
-- 🌱 I’m currently learning **Every challenges is the new lesson to learn**
+- 🌱 I’m currently learning **"Every challenges is the new lesson to learn"**
 
 - 🤝 I’m looking for help with **JavaScript**
 
