@@ -7,15 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/ashiqulshourav" target="blank"><img src="https://img.shields.io/twitter/follow/ashiqulshourav?logo=twitter&style=for-the-badge" alt="ashiqulshourav" /></a> </p>
 
-- 🔭 I’m currently working on [brokertarieven](https://brokertarieven.nl) & [brokerdata](https://brokerdata.tech) & [compareallbrokers](https://compareallbrokers.com)
+- 🔭 I’m currently working on [Legal Claim Assistant](https://legalclaimassistant.com/)
+- 👨‍💻 Previously worked at [brokertarieven](https://brokertarieven.nl) & [brokerdata](https://brokerdata.tech) & [compareallbrokers](https://compareallbrokers.com)
 
-- 🌱 I’m currently learning **Node JS & React Js**
+- 🌱 I’m currently learning **Every challenges is the new lesson to learn**
 
 - 🤝 I’m looking for help with **JavaScript**
 
 - 👨‍💻 All of my projects are available at this [link](https://github.com/ashiqulshourav/websites)
 
-- 💬 Ask me about **HTML, CSS, sass, Bootstrap, vanilla JS, jQuery, Ajax, API**
+- 💬 Ask me about **MERN & MEVN**
 
 - 📫 How to reach me **ashiqulshouravdev@gmail.com**
 
